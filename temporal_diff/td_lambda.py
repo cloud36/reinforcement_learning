@@ -2,7 +2,7 @@ import numpy as np
 from collections import defaultdict
 
 class TD_Lambda_Agent:
-    def __init__(self, nA=6, eps=.1, alpha=.1, gamma=.9):
+    def __init__(self, nA=6, eps=.1, alpha=.1, gamma=.9, lamb=.4):
         """ Initialize agent.
         Params
         ======
@@ -10,10 +10,10 @@ class TD_Lambda_Agent:
         """
         self.nA = nA
         self.Q = defaultdict(lambda: [np.zeros(self.nA), 0])
-        self.eps = .9
+        self.eps = eps
         self.alpha = alpha
         self.gamma = gamma
-        self.lamb = .4
+        self.lamb = lamb
         self.total_actions = 0 
 
         
