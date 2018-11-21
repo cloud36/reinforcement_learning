@@ -7,18 +7,18 @@ Implementations of various Reinforcement Learning algorithms.
     - Monte Carlo Prediction
     - Monte Carlo Control
 
-2. Temporal Difference
+2. [Temporal Difference](https://github.com/cloud36/reinforcement_learning/tree/master/temporal_diff)
     - SARSA
     - Q-Learning
     - TD(Lambda)
 
-3. Function Approixmators
+3. [Function Approixmators](https://github.com/cloud36/reinforcement_learning/tree/master/function_approximators)
     - Discretize
     - Tile Coding
     - Coarse Coding
     - Linear
 
-4. Deep Reinforcement Learning
+4. [Value-Based Deep Reinforcement Learning](https://github.com/cloud36/reinforcement_learning/tree/master/deep_rl)
     - DQN
     - Double DQN
     - Prioritized Replay
