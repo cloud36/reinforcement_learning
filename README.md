@@ -3,7 +3,7 @@
 Implementations of various Reinforcement Learning algorithms.
 
 
-1. Monte Carlo
+1. [Monte Carlo](https://github.com/cloud36/reinforcement_learning/tree/master/monte_carlo)
     - Monte Carlo Prediction
     - Monte Carlo Control
 
