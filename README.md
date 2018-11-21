@@ -4,8 +4,8 @@ Implementations of various Reinforcement Learning algorithms.
 
 
 1. Monte Carlo
-- Monte Carlo Prediction
-- Monte Carlo Control
+  - Monte Carlo Prediction
+  - Monte Carlo Control
 
 2. Temporal Difference
 - SARSA
