@@ -1,2 +1,3 @@
-# reinforcement_learning
-Implementations of various RL algorithms
+# Reinforcement Learning
+
+Implementations of various Reinforcement Learning algorithms.
