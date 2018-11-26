@@ -25,7 +25,13 @@ Implementations of various Reinforcement Learning algorithms.
     - Dueling DQN 
 
 5. Policy-Based Methods
-    - TODO
+    - Hill Climbing
+    - Cross-Entropy
+    - Genetic Algorithm
+    - Gradient Based
+        - Reinforce
+        - PPO
+        - Actor-Critic
 
 6. Counterfactual Policy Evaluation 
 
