@@ -23,6 +23,6 @@ Monte Carlo control is a simple modification to MC prediction and there are two 
 2. If a model of the world is not known. An agent must keep track of action values for each state i.e the average discounted reward for taking a specific action in each state. Once this table is built an agent can act greedily with respect to the action-values.
 
 
-## Insights
+## Some Facts about Monte Carlo Methods.
 
-Monte Carlo methods are known to have high variance, but no bias. This is an important consideration to take into account when ...
+1. Monte Carlo methods are known to have high bias, but no variance. 
