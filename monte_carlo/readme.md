@@ -8,7 +8,7 @@ Monte Carlo methods are some of the simplest approaches in reinforcement learnin
 
 Furthermore, let us assume the discount rate is .9. Then the following values are assigned to each state.
 
-    State_2 = 5 + .9*2+ .9*-1 = 5.9
+    State_2 = 5 + .9*2+ .81*-1 = 5.9
     State_5 = 2 + .9*-1       = 1.1
     State_7 = -1              = -1
 
