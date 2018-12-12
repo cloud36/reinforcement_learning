@@ -20,7 +20,7 @@ Monte Carlo control is a simple modification to MC prediction and there are two 
 
 1. If there is a known model of the work an agent can act greedily by selecting the action that takes it to the state with the highest value.
 
-2 If a model of the world is not known. An agent must keep track of action values for each state i.e the average discounted reward for taking a specific action in each state. Once this table is built an agent can act greedily with respect to the action-values.
+2. If a model of the world is not known. An agent must keep track of action values for each state i.e the average discounted reward for taking a specific action in each state. Once this table is built an agent can act greedily with respect to the action-values.
 
 
 ## Insights
