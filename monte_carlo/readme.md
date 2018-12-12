@@ -4,7 +4,7 @@
 
 Monte Carlo methods are some of the simplest approaches in reinforcement learning. They work by observing an entire espisode and simple taking the average discounted reward for each state and recording that as the states value. For example, imagine the agent takes the follwoing trafectory below and observes the following rewards:
 
-(State_2, Reward:5) --> (State_5, Reward:2) --> (State_7, Reward:-1) --> (State_9, terminal state)
+    (State_2, Reward:5) --> (State_5, Reward:2) --> (State_7, Reward:-1) --> (State_9, terminal state)
 
 Furthermore, let us assume the discount rate is .9. Then the following values are assigned to each state.
 
