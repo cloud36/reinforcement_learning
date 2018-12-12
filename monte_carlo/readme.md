@@ -14,7 +14,7 @@ Furthermore, let us assume the discount rate is .9. Then the following values ar
 
 This is what is known as Monte Carlo prediction in that it predicts the value of each state visited by the agent. As the agent experiences more epsidoes the law of large numbers kicks in and the predicted value will converge to the theoretical mean. 
 
-## Monte Carlo Prediction
+## Monte Carlo Control
 
 ## Insights
 
