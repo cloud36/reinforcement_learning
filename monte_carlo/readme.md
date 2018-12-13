@@ -25,4 +25,4 @@ Monte Carlo control is a simple modification to MC prediction and there are two 
 
 ## Some Facts about Monte Carlo Methods.
 
-1. Monte Carlo methods are known to have high bias, but no variance. 
+1. Monte Carlo methods are known to have high variance, but no bias. 
