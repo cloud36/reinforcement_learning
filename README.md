@@ -31,8 +31,10 @@ Implementations of various Reinforcement Learning algorithms.
     - Gradient Based
         - Reinforce
         - PPO
-        - Actor-Critic
 
-6. Counterfactual Policy Evaluation 
+6. Actor-Critic
+    - DDPG
 
-7. Gym, Experiments and Notebooks 
+7. Counterfactual Policy Evaluation 
+
+8. Gym, Experiments and Notebooks 
